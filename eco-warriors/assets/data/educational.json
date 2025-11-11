@@ -1,0 +1,56 @@
+{
+  "tips": [
+    "Clean water is essential for life. Let's protect it together!",
+    "Every drop counts! Save water, save lives.",
+    "Pollution affects everyone. Keep our water clean!",
+    "783 million people lack access to clean water worldwide.",
+    "Water conservation starts with you!",
+    "Plastic pollution harms aquatic life. Reduce, reuse, recycle!",
+    "Clean water is a human right. Help protect it!",
+    "Small actions make big differences in water conservation.",
+    "Oil spills devastate ecosystems. Prevention is key!",
+    "Together we can ensure clean water for future generations."
+  ],
+  "facts": [
+    {
+      "text": "783 million people lack access to clean water globally",
+      "category": "water_access"
+    },
+    {
+      "text": "Every minute, one garbage truck of plastic enters our oceans",
+      "category": "pollution"
+    },
+    {
+      "text": "80% of wastewater flows back into ecosystems without treatment",
+      "category": "pollution"
+    },
+    {
+      "text": "Water-related diseases kill more people annually than war",
+      "category": "health"
+    },
+    {
+      "text": "By 2025, half of the world's population will live in water-stressed areas",
+      "category": "water_access"
+    },
+    {
+      "text": "Agriculture accounts for 70% of global freshwater withdrawals",
+      "category": "usage"
+    },
+    {
+      "text": "A single oil spill can contaminate millions of gallons of water",
+      "category": "pollution"
+    },
+    {
+      "text": "Clean water and sanitation could prevent 1.4 million child deaths annually",
+      "category": "health"
+    },
+    {
+      "text": "Microplastics have been found in 83% of tap water samples worldwide",
+      "category": "pollution"
+    },
+    {
+      "text": "Investing in water and sanitation returns $4 for every $1 spent",
+      "category": "economics"
+    }
+  ]
+}
