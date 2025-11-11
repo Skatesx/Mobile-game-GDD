@@ -91,15 +91,20 @@
     - Add loading progress tracking (0-100%)
 
 
+
     - Implement retry logic for failed loads
     - Show loading screen with progress indicator
     - _Requirements: 10.2_
 
-- [ ] 5. Implement game entities with Three.js
+- [x] 5. Implement game entities with Three.js
+
+
   - [ ] 5.1 Create Basket entity with THREE.Mesh
     - Create PlaneGeometry for basket
     - Apply basket texture with transparency
     - Implement movement methods (moveLeft, moveRight)
+
+
     - Add collection animation (scale tween)
     - _Requirements: 1.3, 5.1_
 
