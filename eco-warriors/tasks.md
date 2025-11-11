@@ -105,20 +105,27 @@
     - Implement movement methods (moveLeft, moveRight)
 
 
+
     - Add collection animation (scale tween)
     - _Requirements: 1.3, 5.1_
 
-  - [ ] 5.2 Create WaterDrop entity with THREE.Sprite
+  - [x] 5.2 Create WaterDrop entity with THREE.Sprite
+
+
     - Create sprite with water drop texture
     - Implement falling physics (velocity-based)
     - Add getBounds() for collision detection
     - Implement reset() for object pooling
     - _Requirements: 2.1, 2.4, 3.1_
 
+
+
   - [ ] 5.3 Create Pollutant entity with THREE.Sprite
     - Create sprite with pollutant textures (3 types)
     - Implement falling physics
     - Add subtype handling (trash, oil, plastic)
+
+
     - Implement reset() for object pooling
     - _Requirements: 2.1, 2.4, 3.2_
 
